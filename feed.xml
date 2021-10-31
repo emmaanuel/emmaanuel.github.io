@@ -3,12 +3,192 @@
     <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
     <link href="https://emmaanuel.github.io/feed.xml" rel="self" />
     <link href="https://emmaanuel.github.io" />
-    <updated>2021-10-31T19:19:15+01:00</updated>
+    <updated>2021-10-31T19:50:40+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
     <id>https://emmaanuel.github.io</id>
 
+    <entry>
+        <title>Le Moteur</title>
+        <author>
+            <name>Emmanuel C.</name>
+        </author>
+        <link href="https://emmaanuel.github.io/le-moteur.html"/>
+        <id>https://emmaanuel.github.io/le-moteur.html</id>
+            <category term="Vespa"/>
+            <category term="ACMA 1954"/>
+
+        <updated>2021-10-31T19:50:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://emmaanuel.github.io/media/posts/6/img_0186.jpg" alt="" />
+                     Ca y ait j’ai reçu le moteur de PX 125, avec plein de boulettes de polystyrène ... youpi !&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://emmaanuel.github.io/media/posts/6/img_0186.jpg" alt="" />
+                
+  <p>
+    Ca y ait j’ai reçu le moteur de PX 125, avec plein de boulettes de polystyrène ... youpi ! :-( <br>Bad news, le moteur avait fait un bel appel de serrage, il va donc falloir revoir le piston cylindre ... <br>Un réglage bizarre de l’avance, indique que ça ne devait pas tourner très rond la dedans ...<br>Le reste est ok.<br><br>
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/6/gallery/img_0184.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/6/gallery/img_0184-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/6/gallery/img_0186.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/6/gallery/img_0186-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/6/gallery/img_0189.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/6/gallery/img_0189-thumbnail.jpg" height="960" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/6/gallery/img_0228.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/6/gallery/img_0228-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Le projet</title>
+        <author>
+            <name>Emmanuel C.</name>
+        </author>
+        <link href="https://emmaanuel.github.io/le-projet.html"/>
+        <id>https://emmaanuel.github.io/le-projet.html</id>
+            <category term="Vespa"/>
+            <category term="ACMA 1954"/>
+
+        <updated>2021-10-31T19:48:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://emmaanuel.github.io/media/posts/5/img_0144.jpg" alt="" />
+                     La carrosserie étant très amochée et l’aile gauche complètement bouffée par la rouille, il m’a semblait que c’était une&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://emmaanuel.github.io/media/posts/5/img_0144.jpg" alt="" />
+                
+  <p>
+    La carrosserie étant très amochée et l’aile gauche complètement bouffée par la rouille, il m’a semblait que c’était une bonne base pour une restauration pas tout à fait conforme. :-)
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/5/img_0154.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/5/responsive/img_0154-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/5/responsive/img_0154-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/5/responsive/img_0154-md.jpg 768w"  height="3264" width="2448" alt="" />
+      
+    </figure>
+
+  <p>
+    En effet je souhaite remplacer le moteur d’origine par un moteur de PX plus récent, afin d’en faire une machine pouvant être utilisée sur de plus grande distance avec une excellente fiabilité et plus de facilité pour trouver des pièces de rechanges, mais en gardant le plus possible l’aspect des années 50.<br><br>Il va donc falloir : <br>- mettre un adaptateur PX pour acma <br>- découper légèrement la carrosserie pour le carbu <br>- adapter la suspension arrière <br>- modifier le moteur ou la fourche avant pour être entièrement en 8 ou 10 pouces <br>- repasser le faisceau en neuf et en 12V <br>- retrouver une optique adaptable à l’acma 54, car l’optique d’origine a été cassée. <br>- réparer la caisse et les ailes.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Acma 54 : Etat des lieux</title>
+        <author>
+            <name>Emmanuel C.</name>
+        </author>
+        <link href="https://emmaanuel.github.io/acma-54-etat-des-lieux.html"/>
+        <id>https://emmaanuel.github.io/acma-54-etat-des-lieux.html</id>
+            <category term="Vespa"/>
+            <category term="ACMA 1954"/>
+
+        <updated>2021-10-31T19:45:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Et me voila repartis sur un nouveau projet. Un acma de 1954 qui roulait à Nantes il y a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Et me voila repartis sur un nouveau projet.<br>Un acma de 1954 qui roulait à Nantes il y a plus de 50 ans ...<br>Je l’ai récupérée d’un monsieur qui avait commencé à le désosser, et devant l’ampleur de la tâche il avait préféré se consacrer à d’autres projets.<br>Voici les morceaux du puzzle :
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6712.jpg" data-size="640x426">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6712-thumbnail.jpg" height="426" width="640" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6713.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6713-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6714.jpg" data-size="2000x3008">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6714-thumbnail.jpg" height="1083" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6715.jpg" data-size="2000x3008">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6715-thumbnail.jpg" height="1083" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6717.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/dsc_6717-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0140.jpg" data-size="2686x2015">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0140-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0142.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0142-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0144.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0144-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0145.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0145-thumbnail.jpg" height="960" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0147.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0147-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0150.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0150-thumbnail.jpg" height="960" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/4/gallery/img_0157.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/4/gallery/img_0157-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Restauration du moteur de l’Acma 1953</title>
         <author>
