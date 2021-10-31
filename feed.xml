@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
-    <link href="https://emmaanuel.github.io/feed.xml" rel="self" />
-    <link href="https://emmaanuel.github.io" />
+    <link href="https://www.emmaanuel.com/feed.xml" rel="self" />
+    <link href="https://www.emmaanuel.com" />
     <updated>2021-10-31T23:05:08+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
-    <id>https://emmaanuel.github.io</id>
+    <id>https://www.emmaanuel.com</id>
 
     <entry>
         <title>Réalisation d’un maillet en bois</title>
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/realisation-dun-maillet-en-bois.html"/>
-        <id>https://emmaanuel.github.io/realisation-dun-maillet-en-bois.html</id>
+        <link href="https://www.emmaanuel.com/realisation-dun-maillet-en-bois.html"/>
+        <id>https://www.emmaanuel.com/realisation-dun-maillet-en-bois.html</id>
             <category term="Menuiserie"/>
 
         <updated>2021-10-31T22:43:14+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/23/Capture-decran-2021-10-31-a-22.42.58.png" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/23/Capture-decran-2021-10-31-a-22.42.58.png" alt="" />
                      Aujourd’hui un peu de menuiserie avec la réalisation d’un maillet en bois. J’ai utiliser des chutes de bois de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/23/Capture-decran-2021-10-31-a-22.42.58.png" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/23/Capture-decran-2021-10-31-a-22.42.58.png" alt="" />
                 
   <p>
     Aujourd’hui un peu de menuiserie avec la réalisation d’un maillet en bois.<br>J’ai utiliser des chutes de bois de la terrasse (IPE) et des restes de ma table de cuisine (Hêtre).<br><br>Je me suis inspiré d’une réalisation de "JC’s Workshop", avec un corp de maillet assemblé et collé, et un manche qui est verrouillé avec des coins en bois.
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/23/img_1534.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/23/responsive/img_1534-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/23/responsive/img_1534-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/23/responsive/img_1534-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1534.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1534-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-md.jpg 768w"  height="1280" width="960" alt="" />
       <figcaption>Travail du manche à la panne</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/23/img_1536.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/23/responsive/img_1536-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/23/responsive/img_1536-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/23/responsive/img_1536-md.jpg 768w"  height="1280" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1536.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1536-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-md.jpg 768w"  height="1280" width="1280" alt="" />
       <figcaption>quasi-terminé</figcaption>
     </figure>
 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/23/gallery/img_1539.jpg" data-size="960x1280">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/23/gallery/img_1539-thumbnail.jpg" height="960" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/23/gallery/img_1539.jpg" data-size="960x1280">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/gallery/img_1539-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
       <figcaption>finition à l’huile de Tung</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/23/gallery/img_1540.jpg" data-size="960x1280">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/23/gallery/img_1540-thumbnail.jpg" height="960" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/23/gallery/img_1540.jpg" data-size="960x1280">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/gallery/img_1540-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
       
     </figure>
@@ -66,66 +66,66 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/table-de-cuisine-en-hetre-massif.html"/>
-        <id>https://emmaanuel.github.io/table-de-cuisine-en-hetre-massif.html</id>
+        <link href="https://www.emmaanuel.com/table-de-cuisine-en-hetre-massif.html"/>
+        <id>https://www.emmaanuel.com/table-de-cuisine-en-hetre-massif.html</id>
 
         <updated>2021-10-31T23:05:08+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/24/img_1228.jpg" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/24/img_1228.jpg" alt="" />
                      Un retour sur un project réalisé au printemps. Il s’agit d’une table de cuisine en hêtre massif, et c’est&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/24/img_1228.jpg" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/24/img_1228.jpg" alt="" />
                 
   <p>
     Un retour sur un project réalisé au printemps.<br>Il s’agit d’une table de cuisine en hêtre massif, et c’est aussi mon 1er meuble.<br><br>Début des travaux à partir de planches de hêtre en 36 pour les pieds et 28 pour le plateau.
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1156.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1156-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1156-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1156-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1156.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1156-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-md.jpg 768w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1157.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1157-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1157-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1157-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1157.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1157-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-md.jpg 768w"  height="1280" width="960" alt="" />
       <figcaption>Les pieds sont composés de deux morceaux collés</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1184.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1184-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1184-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1184-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1184.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1184-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-md.jpg 768w"  height="960" width="1280" alt="" />
       <figcaption>découpage et rabotage des morceaux pour le plateau</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1185.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1185-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1185-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1185-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1185.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1185-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-md.jpg 768w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1209.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1209-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1209-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1209-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1209.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1209-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-md.jpg 768w"  height="960" width="1280" alt="" />
       <figcaption>Collage bord à bord avec une cheville centrale</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1212.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1212-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1212-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1212-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1212.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1212-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-md.jpg 768w"  height="960" width="1280" alt="" />
       <figcaption>Le plateau finalisé et poncé</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1223.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1223-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1223-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1223-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1223.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1223-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-md.jpg 768w"  height="1280" width="960" alt="" />
       <figcaption>La structure</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1227.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1227-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1227-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1227-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1227.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1227-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-md.jpg 768w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/24/img_1228-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/24/responsive/img_1228-2-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1228-2-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/24/responsive/img_1228-2-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1228-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-md.jpg 768w"  height="960" width="1280" alt="" />
       <figcaption>fin du projet</figcaption>
     </figure>
             ]]>
@@ -136,20 +136,20 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html"/>
-        <id>https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html</id>
+        <link href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html"/>
+        <id>https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html</id>
             <category term="Domotique"/>
 
         <updated>2021-10-31T22:47:12+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/22/Capture-decran-2021-10-31-a-22.46.49.png" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/22/Capture-decran-2021-10-31-a-22.46.49.png" alt="" />
                      L’électronique et le système de distribution sont terminés, il ne me reste plus qu’à mettre tout ça dans une&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/22/Capture-decran-2021-10-31-a-22.46.49.png" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/22/Capture-decran-2021-10-31-a-22.46.49.png" alt="" />
                 
   <p>
     L’électronique et le système de distribution sont terminés, il ne me reste plus qu’à mettre tout ça dans une boite.<br><br>Voulant explorer les possibilités apportées par ma CNC, j’ai décidé de partir sur une structure en MDF. Et comme le MDF ne se visse pas bien et ne se colle pas très bien non plus, j’ai utilisé des assemblages tenons/mortaises un peu améliorés.<br><br>1er test d’assemblage :
@@ -158,18 +158,18 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/img_0482.jpg" data-size="640x480">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/img_0482-thumbnail.jpg" height="480" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/img_0482.jpg" data-size="640x480">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/img_0482-thumbnail.jpg" height="480" width="640" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/img_0484.jpg" data-size="640x480">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/img_0484-thumbnail.jpg" height="480" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/img_0484.jpg" data-size="640x480">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/img_0484-thumbnail.jpg" height="480" width="640" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/img_0485.jpg" data-size="640x480">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/img_0485-thumbnail.jpg" height="480" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/img_0485.jpg" data-size="640x480">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/img_0485-thumbnail.jpg" height="480" width="640" alt="" />
       </a>
       
     </figure>
@@ -177,50 +177,50 @@
   </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/capture_d_ecran_2016-05-21_a_23.26.34.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-xs.png 300w ,https://emmaanuel.github.io/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-sm.png 480w ,https://emmaanuel.github.io/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-md.png 768w"  height="937" width="1337" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/capture_d_ecran_2016-05-21_a_23.26.34.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-xs.png 300w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-sm.png 480w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-md.png 768w"  height="937" width="1337" alt="" />
       <figcaption>Modélisation dans sketchup</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/img_0470.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/22/responsive/img_0470-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0470-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0470-md.jpg 768w"  height="480" width="640" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0470.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0470-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-md.jpg 768w"  height="480" width="640" alt="" />
       <figcaption>Découpage à la CNC</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/img_0474.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/22/responsive/img_0474-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0474-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0474-md.jpg 768w"  height="480" width="640" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0474.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0474-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-md.jpg 768w"  height="480" width="640" alt="" />
       <figcaption>Résultat nickel</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/img_0486.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/22/responsive/img_0486-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0486-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/22/responsive/img_0486-md.jpg 768w"  height="640" width="480" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0486.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0486-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-md.jpg 768w"  height="640" width="480" alt="" />
       <figcaption>j’utilise un bidon d’eau de 5L découpé pour faire l’entonnoir vers la vis sans fin.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/dsc06656.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/22/responsive/dsc06656-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/22/responsive/dsc06656-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/22/responsive/dsc06656-md.jpg 768w"  height="640" width="425" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/dsc06656.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-md.jpg 768w"  height="640" width="425" alt="" />
       <figcaption>Une fois assemblé, ça commence à ressembler à quelque chose</figcaption>
     </figure>
 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/dsc06658.jpg" data-size="425x640">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/dsc06658-thumbnail.jpg" height="640" width="425" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/dsc06658.jpg" data-size="425x640">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/dsc06658-thumbnail.jpg" height="640" width="425" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/dsc06660.jpg" data-size="640x425">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/dsc06660-thumbnail.jpg" height="425" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/dsc06660.jpg" data-size="640x425">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/dsc06660-thumbnail.jpg" height="425" width="640" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/dsc06655.jpg" data-size="640x425">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/dsc06655-thumbnail.jpg" height="425" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/dsc06655.jpg" data-size="640x425">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/dsc06655-thumbnail.jpg" height="425" width="640" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/22/gallery/dsc06654.jpg" data-size="640x425">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/22/gallery/dsc06654-thumbnail.jpg" height="425" width="640" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/22/gallery/dsc06654.jpg" data-size="640x425">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/gallery/dsc06654-thumbnail.jpg" height="425" width="640" alt="" />
       </a>
       
     </figure>
@@ -234,28 +234,28 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html"/>
-        <id>https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html</id>
+        <link href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html"/>
+        <id>https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html</id>
             <category term="Electronique"/>
             <category term="Domotique"/>
 
         <updated>2021-10-31T22:19:28+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/21/arton41.png" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/21/arton41.png" alt="" />
                      Maintenant que le système de distribution de croquette est en place, je commence la partie électronique. Fonctionnellement c’est assez&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/21/arton41.png" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/21/arton41.png" alt="" />
                 
   <p>
-    Maintenant que le <a href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html">système de distribution de croquette</a> est en place, je commence la partie électronique.<br>Fonctionnellement c’est assez simple : <br>- Distribution de croquettes toutes les X heures, minutes <br>- Paramétrage de la quantité de croquette, par la durée de fonctionnement de la vis sans fin. <br>- Affichage du temps restant avant la prochaine distribution <br>- Gestion de l’éclairage de l’écran LCD (éteint si aucune action pendant X secondes)<br><br>Coté électronique, je vais utiliser : <br>- un clone arduino pro mini, car il coute moins de 2 euros, et intègre un transformateur qui accepte jusqu’à 12v <br>- un TIP120 pour contrôler le courant envoyé au moteur <br>- un sélecteur rotatif/poussoir, pour interagir avec l’interface. <br>- un écran lcd basique en 16x2<br><br>Cela donne un circuit imprimé comme ceci :
+    Maintenant que le <a href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html">système de distribution de croquette</a> est en place, je commence la partie électronique.<br>Fonctionnellement c’est assez simple : <br>- Distribution de croquettes toutes les X heures, minutes <br>- Paramétrage de la quantité de croquette, par la durée de fonctionnement de la vis sans fin. <br>- Affichage du temps restant avant la prochaine distribution <br>- Gestion de l’éclairage de l’écran LCD (éteint si aucune action pendant X secondes)<br><br>Coté électronique, je vais utiliser : <br>- un clone arduino pro mini, car il coute moins de 2 euros, et intègre un transformateur qui accepte jusqu’à 12v <br>- un TIP120 pour contrôler le courant envoyé au moteur <br>- un sélecteur rotatif/poussoir, pour interagir avec l’interface. <br>- un écran lcd basique en 16x2<br><br>Cela donne un circuit imprimé comme ceci :
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/21/capture_d_ecran_2016-05-21_a_23.01.59.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-xs.png 300w ,https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-sm.png 480w ,https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-md.png 768w"  height="1019" width="952" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.01.59.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-md.png 768w"  height="1019" width="952" alt="" />
       
     </figure>
 
@@ -264,7 +264,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/21/capture_d_ecran_2016-05-21_a_23.12.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-xs.png 300w ,https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-sm.png 480w ,https://emmaanuel.github.io/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-md.png 768w"  height="820" width="820" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.12.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-md.png 768w"  height="820" width="820" alt="" />
       
     </figure>
 
@@ -279,20 +279,20 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html"/>
-        <id>https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html</id>
+        <link href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html"/>
+        <id>https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html</id>
             <category term="Domotique"/>
 
         <updated>2021-10-31T22:44:36+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/20/Capture-decran-2021-10-31-a-22.44.18.png" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/20/Capture-decran-2021-10-31-a-22.44.18.png" alt="" />
                      Je sais, ce sujet a déjà été traité par de nombreuses personnes, et il existe pléthore de DIY sur&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/20/Capture-decran-2021-10-31-a-22.44.18.png" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/20/Capture-decran-2021-10-31-a-22.44.18.png" alt="" />
                 
   <p>
     Je sais, ce sujet a déjà été traité par de nombreuses personnes, et il existe pléthore de DIY sur le sujet. Mais on s’en fout, car c’est toujours fun de réinventer la roue.<br><br>Je me lance donc dans la construction d’un distributeur de croquettes pour mon chat, afin de pouvoir l’alimenter pendant plusieurs semaines de vacances sans avoir à demander à mes voisins de venir le nourrir.
@@ -304,7 +304,7 @@
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/oYNhEnKZN3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
   <p>
-    Le projet se découpe en 3 parties :<br>- <a href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html">Le mécanisme de distribution de croquette</a><br>- <a href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html">L’électronique</a><br>- <a href="https://emmaanuel.github.io/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html">La structure en bois</a>
+    Le projet se découpe en 3 parties :<br>- <a href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-13-la-vis-sans-fin.html">Le mécanisme de distribution de croquette</a><br>- <a href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-23-lelectronique.html">L’électronique</a><br>- <a href="https://www.emmaanuel.com/diy-ton-distributeur-de-croquettes-pour-chat-33-la-structure.html">La structure en bois</a>
   </p>
 
   <p>
@@ -318,8 +318,8 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/20/gallery/capture_d_ecran_2016-05-20_a_00.04.23.png" data-size="967x665">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/gallery/capture_d_ecran_2016-05-20_a_00.04.23-thumbnail.png" height="495" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/20/gallery/capture_d_ecran_2016-05-20_a_00.04.23.png" data-size="967x665">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/gallery/capture_d_ecran_2016-05-20_a_00.04.23-thumbnail.png" height="495" width="720" alt="" />
       </a>
       
     </figure>
@@ -331,12 +331,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/capture_d_ecran_2016-05-19_a_23.40.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-xs.png 300w ,https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-sm.png 480w ,https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-md.png 768w"  height="899" width="899" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.40.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-md.png 768w"  height="899" width="899" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/capture_d_ecran_2016-05-19_a_23.45.15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-xs.png 300w ,https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-sm.png 480w ,https://emmaanuel.github.io/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-md.png 768w"  height="795" width="606" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.45.15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-md.png 768w"  height="795" width="606" alt="" />
       
     </figure>
 
@@ -347,18 +347,18 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/20/gallery/capture_d_ecran_2016-05-21_a_23.15.28.png" data-size="990x864">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/gallery/capture_d_ecran_2016-05-21_a_23.15.28-thumbnail.png" height="628" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/20/gallery/capture_d_ecran_2016-05-21_a_23.15.28.png" data-size="990x864">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/gallery/capture_d_ecran_2016-05-21_a_23.15.28-thumbnail.png" height="628" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/20/gallery/img_0233.jpg" data-size="480x640">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/gallery/img_0233-thumbnail.jpg" height="640" width="480" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/20/gallery/img_0233.jpg" data-size="480x640">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/gallery/img_0233-thumbnail.jpg" height="640" width="480" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/20/gallery/img_0234.jpg" data-size="480x640">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/20/gallery/img_0234-thumbnail.jpg" height="640" width="480" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/20/gallery/img_0234.jpg" data-size="480x640">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/gallery/img_0234-thumbnail.jpg" height="640" width="480" alt="" />
       </a>
       
     </figure>
@@ -376,20 +376,20 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html"/>
-        <id>https://emmaanuel.github.io/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html</id>
+        <link href="https://www.emmaanuel.com/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html"/>
+        <id>https://www.emmaanuel.com/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html</id>
             <category term="Electronique"/>
 
         <updated>2021-10-31T21:20:53+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/18/_dsc6965-2.jpg" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/18/_dsc6965-2.jpg" alt="" />
                      Today I wanted to share my first Raspberry Pi project. It’s a music player based on raspberry pi and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/18/_dsc6965-2.jpg" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/18/_dsc6965-2.jpg" alt="" />
                 
   <p>
     Today I wanted to share my first Raspberry Pi project.<br>It’s a music player based on raspberry pi and squeezebox system.<br>This is the result :
@@ -401,7 +401,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/radio_squeezebox2_bb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-xs.png 300w ,https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-sm.png 480w ,https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-md.png 768w"  height="2238" width="1755" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/radio_squeezebox2_bb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-xs.png 300w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-sm.png 480w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-md.png 768w"  height="2238" width="1755" alt="" />
       
     </figure>
 
@@ -410,7 +410,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/img_0617.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/18/responsive/img_0617-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/18/responsive/img_0617-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/18/responsive/img_0617-md.jpg 768w"  height="2448" width="3264" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/img_0617.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/img_0617-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-md.jpg 768w"  height="2448" width="3264" alt="" />
       
     </figure>
 
@@ -433,43 +433,43 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0608.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0608-thumbnail.jpg" height="960" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/img_0608.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/img_0608-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0609.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0609-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/img_0609.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/img_0609-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0620.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0620-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/img_0620.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/img_0620-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0621.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0621-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/img_0621.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/img_0621-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6967.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6967-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6967.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6967-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6973.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6973-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6973.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6973-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6974.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6974-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6974.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6974-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6977.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6977-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6977.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/gallery/_dsc6977-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
@@ -483,21 +483,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/acma-54-fin-de-la-restauration.html"/>
-        <id>https://emmaanuel.github.io/acma-54-fin-de-la-restauration.html</id>
+        <link href="https://www.emmaanuel.com/acma-54-fin-de-la-restauration.html"/>
+        <id>https://www.emmaanuel.com/acma-54-fin-de-la-restauration.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1954"/>
 
         <updated>2021-10-31T21:23:48+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/19/_dsc6987.jpg" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/19/_dsc6987.jpg" alt="" />
                      Ca y est c’est fini... Cette petite guêpe va pouvoir entamer sa deuxième vie. Il reste encore quelques bricoles&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/19/_dsc6987.jpg" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/19/_dsc6987.jpg" alt="" />
                 
   <p>
     Ca y est c’est fini...<br>Cette petite guêpe va pouvoir entamer sa deuxième vie.
@@ -506,23 +506,23 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6983.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6983-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6983.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6983-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6988.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6988-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6988.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6988-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6993.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6993-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6993.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6993-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6995.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6995-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6995.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/19/gallery/_dsc6995-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
@@ -540,21 +540,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/passage-des-gaines-et-du-faisceau.html"/>
-        <id>https://emmaanuel.github.io/passage-des-gaines-et-du-faisceau.html</id>
+        <link href="https://www.emmaanuel.com/passage-des-gaines-et-du-faisceau.html"/>
+        <id>https://www.emmaanuel.com/passage-des-gaines-et-du-faisceau.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1954"/>
 
         <updated>2021-10-31T21:00:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/17/img_0585.jpg" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/17/img_0585.jpg" alt="" />
                      Ce week-end, j’ai fais la partie qui a été la plus pénible de toute la restauration : le passage&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/17/img_0585.jpg" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/17/img_0585.jpg" alt="" />
                 
   <p>
     Ce week-end, j’ai fais la partie qui a été la plus pénible de toute la restauration : le passage des gaines.<br><br>J’ai d’abord passer plusieurs soirs à poser les baguettes de sols. Bien galère comme truc, et ça bouffe les doigts :-)
@@ -563,8 +563,8 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0584.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0584-thumbnail.jpg" height="960" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0584.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0584-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
       
     </figure>
@@ -578,8 +578,8 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0587.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0587-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0587.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0587-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>
@@ -593,23 +593,23 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0597.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0597-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0597.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0597-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0598.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0598-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0598.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0598-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0599.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0599-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0599.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0599-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/17/gallery/img_0600.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/17/gallery/img_0600-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/17/gallery/img_0600.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/17/gallery/img_0600-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>
@@ -627,21 +627,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/les-chromes-sont-arrives.html"/>
-        <id>https://emmaanuel.github.io/les-chromes-sont-arrives.html</id>
+        <link href="https://www.emmaanuel.com/les-chromes-sont-arrives.html"/>
+        <id>https://www.emmaanuel.com/les-chromes-sont-arrives.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1954"/>
 
         <updated>2021-10-31T20:56:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/16/img_0295.jpg" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/16/img_0295.jpg" alt="" />
                      Avant: Après: 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/16/img_0295.jpg" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/16/img_0295.jpg" alt="" />
                 
   <p>
     Avant:
@@ -650,13 +650,13 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/16/gallery/img_0297.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/16/gallery/img_0297-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/16/gallery/img_0297.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/16/gallery/img_0297-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/16/gallery/img_0290-2.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/16/gallery/img_0290-2-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/16/gallery/img_0290-2.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/16/gallery/img_0290-2-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>
@@ -670,8 +670,8 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/16/gallery/img_0518.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/16/gallery/img_0518-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/16/gallery/img_0518.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/16/gallery/img_0518-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>
@@ -685,21 +685,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/peinture-carrosserie-du-vespa-acma-54.html"/>
-        <id>https://emmaanuel.github.io/peinture-carrosserie-du-vespa-acma-54.html</id>
+        <link href="https://www.emmaanuel.com/peinture-carrosserie-du-vespa-acma-54.html"/>
+        <id>https://www.emmaanuel.com/peinture-carrosserie-du-vespa-acma-54.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1954"/>
 
         <updated>2021-10-31T20:53:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/15/arton18.png" alt="" />
+                        <img src="https://www.emmaanuel.com/media/posts/15/arton18.png" alt="" />
                      De bon matin, je me suis lancé dans la dernière étape de la partie carrosserie : la peinture de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/15/arton18.png" alt="" />
+                    <img src="https://www.emmaanuel.com/media/posts/15/arton18.png" alt="" />
                 
   <p>
     De bon matin, je me suis lancé dans la dernière étape de la partie carrosserie : la peinture de la carrosserie !<br>Apres plusieurs essais ratés au cour de la semaine (j’avais systématiquement de la grosse peau d’orange), j’ai modifié la pression sur mon pistolet et après un test rapide je me suis lancé. Et c’est beaucoup mieux.<br>J’ai maintenant 2 bars mesurés avec la gâchette enfoncée, tandis qu’avant j’avais 2,5 bar mais avec le pistolet fermé.<br><br>Si l’on considère que c’est la première fois que je fais une peinture de carrosserie, je trouve que ce n’est pas mal. Il faudra tout de même que je mette un coup de lustrage à 1 ou 2 endroit pour gommer des effets de "voile".
@@ -708,18 +708,18 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/15/gallery/img_0502.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/15/gallery/img_0502-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/15/gallery/img_0502.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/15/gallery/img_0502-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/15/gallery/img_0503.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/15/gallery/img_0503-thumbnail.jpg" height="960" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/15/gallery/img_0503.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/15/gallery/img_0503-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/15/gallery/img_0501.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/15/gallery/img_0501-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://www.emmaanuel.com/media/posts/15/gallery/img_0501.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://www.emmaanuel.com/media/posts/15/gallery/img_0501-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>
