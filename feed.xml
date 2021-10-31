@@ -3,7 +3,7 @@
     <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
     <link href="https://emmaanuel.github.io/feed.xml" rel="self" />
     <link href="https://emmaanuel.github.io" />
-    <updated>2021-10-31T21:11:51+01:00</updated>
+    <updated>2021-10-31T21:23:48+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://emmaanuel.github.io/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html</id>
             <category term="Electronique"/>
 
-        <updated>2021-10-31T21:11:51+01:00</updated>
+        <updated>2021-10-31T21:20:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://emmaanuel.github.io/media/posts/18/_dsc6965-2.jpg" alt="" />
@@ -32,11 +32,6 @@
   <p>
     Today I wanted to share my first Raspberry Pi project.<br>It’s a music player based on raspberry pi and squeezebox system.<br>This is the result :
   </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" data-is-external-image="true"  height="2000" width="3008" alt="" />
-      
-    </figure>
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MlwlagkwlYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
   <p>
@@ -58,7 +53,19 @@
     </figure>
 
   <p>
-    the Software side<br><br>First of all, you have to update Raspian<br><br>sudo apt-get update<br>sudo apt-get upgrade<br>Then, install squeezelite<br><br>sudo apt-get install libflac-dev<br>sudo apt-get install libfaad2<br>sudo apt-get install libmad0<br>wget http://squeezelite.googlecode.com/files/squeezelite-armv6<br>chmod u+x squeezelite-armv6<br>squeezelite-armv6 -l<br>You should see something like this :<br><br>pi@raspberrypi ~/squeezelite $ ./squeezelite-armv6 -l<br>Output devices:<br> null                                 - Discard all samples (playback) or generate zero samples (capture)<br> pulse                              - Playback/recording through the PulseAudio sound server<br> sysdefault:CARD=ALSA   - bcm2835 ALSA, bcm2835 ALSA - Default Audio Device<br>Now, launch squeezelite, replacing 192.168.0.10 by your squeezebox server private IP adress :<br>./squeezelite-armv6 -o sysdefault:CARD=ALSA -a 5000:4 192.168.0.10<br><br>Ok, now you have a squeezebox on your raspberry. Let’s control it.<br>For the LCD screen I have modify this HD44780 class <br>For the rotary encoder I have use the Gaugette Library<br><br>The full UI code can be downloaded here.<br><br>Before the UI can run, you have to setup your squeezebox server IP adresse and your raspberry Mac address. Alter the line 236 of squeezeberryUI_v1.py<br><br>self.sbs = SqueezeBoxServer(host="192.168.0.10",port=9000, player_id="ab:1f:cb:82:cc:50")<br><br>And now launch it :<br>sudo python squeezeberryUI_v1.py<br><br>The Wood Case<br><br>For the case I’ve used some pieces of wood founded in my garage.<br>Here is the result:
+    the Software side<br><br>First of all, you have to update Raspian<br><br><code>sudo apt-get update<br></code><code>sudo apt-get upgrade</code>
+  </p>
+
+  <p>
+    Then, install squeezelite<br><br><code>sudo apt-get install libflac-dev<br></code><code>sudo apt-get install libfaad2<br></code><code>sudo apt-get install libmad0</code>
+  </p>
+
+  <p>
+    <code>wget http://squeezelite.googlecode.com/files/squeezelite-armv6</code><br><code>chmod u+x squeezelite-armv6<br></code><code>squeezelite-armv6 -l</code>
+  </p>
+
+  <p>
+    You should see something like this :<br><br><code>pi@raspberrypi ~/squeezelite $ ./squeezelite-armv6 -l</code><br>Output devices:<br> <code>null                                 - Discard all samples (playback) or generate zero samples (capture)</code><br> <code>pulse                              - Playback/recording through the PulseAudio sound server</code><br> <code>sysdefault:CARD=ALSA   - bcm2835 ALSA, bcm2835 ALSA - Default Audio Device</code><br>Now, launch squeezelite, replacing 192.168.0.10 by your squeezebox server private IP adress :<br><code>./squeezelite-armv6 -o sysdefault:CARD=ALSA -a 5000:4 192.168.0.10</code><br><br>Ok, now you have a squeezebox on your raspberry. Let’s control it.<br>For the LCD screen I have modify this HD44780 class <br>For the rotary encoder I have use the Gaugette Library<br><br>The full UI code can be downloaded here.<br><br>Before the UI can run, you have to setup your squeezebox server IP adresse and your raspberry Mac address. Alter the line 236 of squeezeberryUI_v1.py<br><br><code>self.sbs = SqueezeBoxServer(host="192.168.0.10",port=9000, player_id="ab:1f:cb:82:cc:50")</code><br><br>And now launch it :<br><code>sudo python squeezeberryUI_v1.py</code><br><br>The Wood Case<br><br>For the case I’ve used some pieces of wood founded in my garage.<br>Here is the result:
   </p>
 
   <div  class="gallery-wrapper gallery-wrapper--center">
@@ -106,6 +113,63 @@
     </figure>
     </div>
   </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ACMA 54 : Fin de la restauration !</title>
+        <author>
+            <name>Emmanuel C.</name>
+        </author>
+        <link href="https://emmaanuel.github.io/acma-54-fin-de-la-restauration.html"/>
+        <id>https://emmaanuel.github.io/acma-54-fin-de-la-restauration.html</id>
+            <category term="Vespa"/>
+            <category term="ACMA 1954"/>
+
+        <updated>2021-10-31T21:23:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://emmaanuel.github.io/media/posts/19/_dsc6987.jpg" alt="" />
+                     Ca y est c’est fini... Cette petite guêpe va pouvoir entamer sa deuxième vie. Il reste encore quelques bricoles&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://emmaanuel.github.io/media/posts/19/_dsc6987.jpg" alt="" />
+                
+  <p>
+    Ca y est c’est fini...<br>Cette petite guêpe va pouvoir entamer sa deuxième vie.
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6983.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6983-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6988.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6988-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6993.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6993-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6995.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/19/gallery/_dsc6995-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    Il reste encore quelques bricoles à finir, mais elle a déjà fait un belle balade ce dimanche.<br>Donc au final : <br>- elle est très sympa à conduire. <br>- Les commandes sont souples et précises (merci les gaines teflonées). <br>- toute l’électricité fonctionne très bien <br>- le passage en 10 pouces sur une fourche de 8 donne une vitesse compteur = une vitesse GPS <br>- à l’arrêt la vespa est très déséquilibrée du coté du moteur, bcp plus qu’avec le moteur d’origine. <br>- la roue avant touche lors des freinages, et ceci malgré le ressort renforcé : de la bricole en perspective.
+  </p>
             ]]>
         </content>
     </entry>
@@ -555,79 +619,6 @@
   <p>
     Après quelque tentative, le moteur démarre, mais il me manque le filtre à air pour pouvoir faire les réglages.<br><br>
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Transformation de la fourche</title>
-        <author>
-            <name>Emmanuel C.</name>
-        </author>
-        <link href="https://emmaanuel.github.io/transformation-de-la-fourche.html"/>
-        <id>https://emmaanuel.github.io/transformation-de-la-fourche.html</id>
-            <category term="Vespa"/>
-            <category term="ACMA 1954"/>
-
-        <updated>2021-10-31T20:09:41+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/9/img_0439.jpg" alt="" />
-                     Je me suis attaqué cette semaine à la fourche et à la suspension avant. L’objectif est de conserver cette&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/9/img_0439.jpg" alt="" />
-                
-  <p>
-    Je me suis attaqué cette semaine à la fourche et à la suspension avant.<br>L’objectif est de conserver cette fourche mais de la passer en 10 pouces. <br>Il faudra pour cela : <br>- remplacer l’axe de roue et les mâchoires de freins <br>- ajouter un cache poussière <br>- durcir l’amortisseur pour ne pas que la roue tape sur le garde boue.
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--center">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0260.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0260-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0262.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0262-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0268.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0268-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0347.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0347-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0349.jpg" data-size="3264x2448">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0349-thumbnail.jpg" height="540" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0403.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0403-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0432.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0432-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0441.jpg" data-size="2448x3264">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0441-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
