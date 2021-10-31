@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Le blog d&#x27;emmaanuel</title>
-    <link href="https://emmaanuel.github.io/www/feed.xml" rel="self" />
-    <link href="https://emmaanuel.github.io/www" />
+    <link href="https://emmaanuel.github.io/feed.xml" rel="self" />
+    <link href="https://emmaanuel.github.io" />
     <updated>2021-10-31T11:32:55+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
-    <id>https://emmaanuel.github.io/www</id>
+    <id>https://emmaanuel.github.io</id>
 
     <entry>
         <title>Restauration du moteur de l’Acma 1953</title>
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/www/restauration-du-moteur-de-lacma-1953.html"/>
-        <id>https://emmaanuel.github.io/www/restauration-du-moteur-de-lacma-1953.html</id>
+        <link href="https://emmaanuel.github.io/restauration-du-moteur-de-lacma-1953.html"/>
+        <id>https://emmaanuel.github.io/restauration-du-moteur-de-lacma-1953.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1953"/>
 
         <updated>2021-10-31T11:32:55+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/www/media/posts/3/_dsc5717-2.jpg" alt="" />
+                        <img src="https://emmaanuel.github.io/media/posts/3/_dsc5717-2.jpg" alt="" />
                      Le gros problème de ce vespa quand je l’ai acheté c’est que le moteur ne fonctionnait pas pas très&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/www/media/posts/3/_dsc5717-2.jpg" alt="" />
+                    <img src="https://emmaanuel.github.io/media/posts/3/_dsc5717-2.jpg" alt="" />
                 
   <p>
     Le gros problème de ce vespa quand je l’ai acheté c’est que le moteur ne fonctionnait pas pas très bien. Les vitesses sautaient, le ralenti ne tenait pas, donc il était loin d’être agréable à conduire. En plus de cela petite poussette obligatoire pour démarrer à froid, et semi-marathon pour démarrer à chaud...<br><br>J’ai donc entrepris l’hiver dernier une révision complète du moteur histoire de mieux connaître la bête.<br>Un grand merci à Tom59 pour son article sur le démontage pas à pas du moteur… un vrai régal.
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100577.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100577-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100577-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100577-md.jpg 768w"  height="1880" width="2816" alt="Le spy n’avait pas l’air très étanche." />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100577.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100577-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100577-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100577-md.jpg 768w"  height="1880" width="2816" alt="Le spy n’avait pas l’air très étanche." />
       <figcaption>Le spy n’avait pas l’air très étanche.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100588.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100588-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100588-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100588-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100588.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100588-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100588-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100588-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>L’embrayage en liège a eu un peu chaud</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100593.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100593-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100593-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100593-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100593.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100593-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100593-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100593-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>Carter ouvert. Un peu noir autour du vilo, mais pas si pire.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100594.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100594-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100594-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100594-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100594.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100594-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100594-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100594-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>J’attaque la boite. La rondelle frein du coulisseau ne faisait plus frein ... mais c’était toujours bien serré.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100597.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100597-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100597-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100597-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100597.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100597-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100597-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100597-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>Spy vilo référence 1835</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100610.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100610-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100610-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100610-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100610.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100610-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100610-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100610-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>Croisillon fatigué</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100613.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100613-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100613-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100613-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100613.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100613-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100613-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100613-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>L’arbre secondaire</figcaption>
     </figure>
 
@@ -74,12 +74,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100619.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100619-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100619-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100619-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100619.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100619-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100619-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100619-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>le primaire. un jeu d’enfant à ce niveau là. Attention aux aiguilles :-)</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100625.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100625-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100625-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100625-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100625.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100625-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100625-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100625-md.jpg 768w"  height="1880" width="2816" alt="" />
       <figcaption>La rondelle a deux trous</figcaption>
     </figure>
 
@@ -88,7 +88,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/p1100628.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/p1100628-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100628-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/p1100628-md.jpg 768w"  height="1880" width="2816" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/p1100628.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/p1100628-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100628-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/p1100628-md.jpg 768w"  height="1880" width="2816" alt="" />
       
     </figure>
 
@@ -99,18 +99,18 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/3/gallery/p1100656.jpg" data-size="2816x1880">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/gallery/p1100656-thumbnail.jpg" height="481" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/3/gallery/p1100656.jpg" data-size="2816x1880">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/gallery/p1100656-thumbnail.jpg" height="481" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/3/gallery/_dsc5706.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/gallery/_dsc5706-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/3/gallery/_dsc5706.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/gallery/_dsc5706-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/3/gallery/_dsc5707.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/gallery/_dsc5707-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/3/gallery/_dsc5707.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/gallery/_dsc5707-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
@@ -122,7 +122,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/3/_dsc5717.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/3/responsive/_dsc5717-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/3/responsive/_dsc5717-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/3/responsive/_dsc5717-md.jpg 768w"  height="2000" width="3008" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/3/_dsc5717.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/3/responsive/_dsc5717-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/3/responsive/_dsc5717-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/3/responsive/_dsc5717-md.jpg 768w"  height="2000" width="3008" alt="" />
       
     </figure>
 
@@ -137,21 +137,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/www/restauration-du-reservoir.html"/>
-        <id>https://emmaanuel.github.io/www/restauration-du-reservoir.html</id>
+        <link href="https://emmaanuel.github.io/restauration-du-reservoir.html"/>
+        <id>https://emmaanuel.github.io/restauration-du-reservoir.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1953"/>
 
         <updated>2021-10-31T11:19:24+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/www/media/posts/2/p1100568.jpg" alt="" />
+                        <img src="https://emmaanuel.github.io/media/posts/2/p1100568.jpg" alt="" />
                      Le nettoyage du réservoir est une étape importante pour que ce scooter tienne mieux le ralentit. Le dépôt de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/www/media/posts/2/p1100568.jpg" alt="" />
+                    <img src="https://emmaanuel.github.io/media/posts/2/p1100568.jpg" alt="" />
                 
   <p>
     Le nettoyage du réservoir est une étape importante pour que ce scooter tienne mieux le ralentit. Le dépôt de rouille qui en couvre les parois a la fâcheuse tendance de venir boucher mes petits gicleurs...<br>J’ai suivi pour cela une méthode d’écrite ici : <a href="http://motoberry.forumsclub.com/t39-technique-la-restauration-des-reservoirs" rel="nofollow noopener">http://motoberry.forumsclub.com/t39-technique-la-restauration-des-reservoirs</a> et qui marche du tonnerre pour pas trop cher.<br>Il s’agit ici d’une méthode alternative au fameux Kit Restom.<br><br>Voici l’intérieur de mon réservoir avant le début des hostilités :
@@ -160,13 +160,13 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100567.jpg" data-size="2816x1880">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100567-thumbnail.jpg" height="481" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/2/gallery/p1100567.jpg" data-size="2816x1880">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/2/gallery/p1100567-thumbnail.jpg" height="481" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100568.jpg" data-size="1880x2816">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100568-thumbnail.jpg" height="1078" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/2/gallery/p1100568.jpg" data-size="1880x2816">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/2/gallery/p1100568-thumbnail.jpg" height="1078" width="720" alt="" />
       </a>
       
     </figure>
@@ -178,7 +178,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/2/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/www/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-xs.jpg 300w ,https://emmaanuel.github.io/www/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-sm.jpg 480w ,https://emmaanuel.github.io/www/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-md.jpg 768w"  height="216" width="216" alt="" />
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/2/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/2/responsive/2d7cf24f1e970b6576bb9a6b715e9b1-53070864-1-2-944646-md.jpg 768w"  height="216" width="216" alt="" />
       
     </figure>
 
@@ -193,13 +193,13 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100574.jpg" data-size="2816x1880">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100574-thumbnail.jpg" height="481" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/2/gallery/p1100574.jpg" data-size="2816x1880">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/2/gallery/p1100574-thumbnail.jpg" height="481" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100576.jpg" data-size="2816x1880">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/2/gallery/p1100576-thumbnail.jpg" height="481" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/2/gallery/p1100576.jpg" data-size="2816x1880">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/2/gallery/p1100576-thumbnail.jpg" height="481" width="720" alt="" />
       </a>
       
     </figure>
@@ -221,21 +221,21 @@
         <author>
             <name>Emmanuel C.</name>
         </author>
-        <link href="https://emmaanuel.github.io/www/quelques-photos-pour-mieux-la-connaitre.html"/>
-        <id>https://emmaanuel.github.io/www/quelques-photos-pour-mieux-la-connaitre.html</id>
+        <link href="https://emmaanuel.github.io/quelques-photos-pour-mieux-la-connaitre.html"/>
+        <id>https://emmaanuel.github.io/quelques-photos-pour-mieux-la-connaitre.html</id>
             <category term="Vespa"/>
             <category term="ACMA 1953"/>
 
         <updated>2021-10-31T11:07:49+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://emmaanuel.github.io/www/media/posts/1/_dsc5631-2.jpg" alt="" />
+                        <img src="https://emmaanuel.github.io/media/posts/1/_dsc5631-2.jpg" alt="" />
                      Quelques photos de la Vespa ACMA de 1953, tel que je l’ai achetée en 2011. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://emmaanuel.github.io/www/media/posts/1/_dsc5631-2.jpg" alt="" />
+                    <img src="https://emmaanuel.github.io/media/posts/1/_dsc5631-2.jpg" alt="" />
                 
   <p>
     Quelques photos de la Vespa ACMA de 1953, tel que je l’ai achetée en 2011.
@@ -244,33 +244,33 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5631.jpg" data-size="1918x1706">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5631-thumbnail.jpg" height="640" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5631.jpg" data-size="1918x1706">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5631-thumbnail.jpg" height="640" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5635.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5635-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5635.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5635-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5636-2.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5636-2-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5636-2.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5636-2-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5637.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5637-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5637.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5637-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5641.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5641-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5641.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5641-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5645.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/www/media/posts/1/gallery/_dsc5645-thumbnail.jpg" height="479" width="720" alt="" />
+      <a href="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5645.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/1/gallery/_dsc5645-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
