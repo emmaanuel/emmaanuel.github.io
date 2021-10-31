@@ -3,7 +3,7 @@
     <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
     <link href="https://www.emmaanuel.com/feed.xml" rel="self" />
     <link href="https://www.emmaanuel.com" />
-    <updated>2021-10-31T23:05:08+01:00</updated>
+    <updated>2021-10-31T23:22:03+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
@@ -68,8 +68,9 @@
         </author>
         <link href="https://www.emmaanuel.com/table-de-cuisine-en-hetre-massif.html"/>
         <id>https://www.emmaanuel.com/table-de-cuisine-en-hetre-massif.html</id>
+            <category term="Menuiserie"/>
 
-        <updated>2021-10-31T23:05:08+01:00</updated>
+        <updated>2021-10-31T23:22:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/24/img_1228.jpg" alt="" />
