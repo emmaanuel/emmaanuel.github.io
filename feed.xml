@@ -3,12 +3,112 @@
     <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
     <link href="https://emmaanuel.github.io/feed.xml" rel="self" />
     <link href="https://emmaanuel.github.io" />
-    <updated>2021-10-31T21:00:05+01:00</updated>
+    <updated>2021-10-31T21:11:51+01:00</updated>
     <author>
         <name>Emmanuel C.</name>
     </author>
     <id>https://emmaanuel.github.io</id>
 
+    <entry>
+        <title>SqueezeBerry : a Music Player based on Raspberry and Squeezebox</title>
+        <author>
+            <name>Emmanuel C.</name>
+        </author>
+        <link href="https://emmaanuel.github.io/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html"/>
+        <id>https://emmaanuel.github.io/squeezeberry-a-music-player-based-on-raspberry-and-squeezebox.html</id>
+            <category term="Electronique"/>
+
+        <updated>2021-10-31T21:11:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://emmaanuel.github.io/media/posts/18/_dsc6965-2.jpg" alt="" />
+                     Today I wanted to share my first Raspberry Pi project. It’s a music player based on raspberry pi and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://emmaanuel.github.io/media/posts/18/_dsc6965-2.jpg" alt="" />
+                
+  <p>
+    Today I wanted to share my first Raspberry Pi project.<br>It’s a music player based on raspberry pi and squeezebox system.<br>This is the result :
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" data-is-external-image="true"  height="2000" width="3008" alt="" />
+      
+    </figure>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MlwlagkwlYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+
+  <p>
+    The SqueezeBerry hardware is composed by : <br>- a Raspberry PI (model A or B) <br>- a wifi usb dongle <br>- speakers from a old PC speaker <br>- a LCD blue screen 16x2 based on HD44780 <br>- a wood case <br>- a push button <br>- a rotary encoder switch <br>- a potentiometer<br><br>The SqueezeBerry works with a Logitech Media Server (alias Squeezebox Server)<br><br>The SqueezeBerry software is composed by : <br>- Raspbian (Raspberry OS) <br>- squeezelite : a squeezebox emulator for linux <br>- the user interface program<br><br>the electronic side<br><br>I’m a newbie in electronic, so please don’t blame me for this scheme (click to enlarge) :
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/radio_squeezebox2_bb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-xs.png 300w ,https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-sm.png 480w ,https://emmaanuel.github.io/media/posts/18/responsive/radio_squeezebox2_bb-md.png 768w"  height="2238" width="1755" alt="" />
+      
+    </figure>
+
+  <p>
+    As you can see, all the buttons are not on the breadboard, the reason why is because in the final project the breadboard will become a pcb board, and the buttons will be wire connected to this board.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/img_0617.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/18/responsive/img_0617-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/18/responsive/img_0617-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/18/responsive/img_0617-md.jpg 768w"  height="2448" width="3264" alt="" />
+      
+    </figure>
+
+  <p>
+    the Software side<br><br>First of all, you have to update Raspian<br><br>sudo apt-get update<br>sudo apt-get upgrade<br>Then, install squeezelite<br><br>sudo apt-get install libflac-dev<br>sudo apt-get install libfaad2<br>sudo apt-get install libmad0<br>wget http://squeezelite.googlecode.com/files/squeezelite-armv6<br>chmod u+x squeezelite-armv6<br>squeezelite-armv6 -l<br>You should see something like this :<br><br>pi@raspberrypi ~/squeezelite $ ./squeezelite-armv6 -l<br>Output devices:<br> null                                 - Discard all samples (playback) or generate zero samples (capture)<br> pulse                              - Playback/recording through the PulseAudio sound server<br> sysdefault:CARD=ALSA   - bcm2835 ALSA, bcm2835 ALSA - Default Audio Device<br>Now, launch squeezelite, replacing 192.168.0.10 by your squeezebox server private IP adress :<br>./squeezelite-armv6 -o sysdefault:CARD=ALSA -a 5000:4 192.168.0.10<br><br>Ok, now you have a squeezebox on your raspberry. Let’s control it.<br>For the LCD screen I have modify this HD44780 class <br>For the rotary encoder I have use the Gaugette Library<br><br>The full UI code can be downloaded here.<br><br>Before the UI can run, you have to setup your squeezebox server IP adresse and your raspberry Mac address. Alter the line 236 of squeezeberryUI_v1.py<br><br>self.sbs = SqueezeBoxServer(host="192.168.0.10",port=9000, player_id="ab:1f:cb:82:cc:50")<br><br>And now launch it :<br>sudo python squeezeberryUI_v1.py<br><br>The Wood Case<br><br>For the case I’ve used some pieces of wood founded in my garage.<br>Here is the result:
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0608.jpg" data-size="2448x3264">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0608-thumbnail.jpg" height="960" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0609.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0609-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0620.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0620-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/img_0621.jpg" data-size="3264x2448">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/img_0621-thumbnail.jpg" height="540" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6967.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6967-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6973.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6973-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6974.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6974-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6977.jpg" data-size="3008x2000">
+        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/18/gallery/_dsc6977-thumbnail.jpg" height="479" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Passage des gaines et du faisceau</title>
         <author>
@@ -523,54 +623,6 @@
     </figure><figure class="gallery__item">
       <a href="https://emmaanuel.github.io/media/posts/9/gallery/img_0441.jpg" data-size="2448x3264">
         <img loading="lazy" src="https://emmaanuel.github.io/media/posts/9/gallery/img_0441-thumbnail.jpg" height="960" width="720" alt="" />
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nettoyage du carbu d’origine</title>
-        <author>
-            <name>Emmanuel C.</name>
-        </author>
-        <link href="https://emmaanuel.github.io/nettoyage-du-carbu-dorigine.html"/>
-        <id>https://emmaanuel.github.io/nettoyage-du-carbu-dorigine.html</id>
-            <category term="Vespa"/>
-            <category term="ACMA 1954"/>
-
-        <updated>2021-10-31T20:04:50+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://emmaanuel.github.io/media/posts/8/img_0241.jpg" alt="" />
-                     Aujourd’hui en attendant le retour de la coque, qui est au redraissage, j’ai décidé de nettoyer le carburateur d’origine.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://emmaanuel.github.io/media/posts/8/img_0241.jpg" alt="" />
-                
-  <p>
-    Aujourd’hui en attendant le retour de la coque, qui est au redraissage, j’ai décidé de nettoyer le carburateur d’origine.<br><br>Voici la bête, avec passage au vinaigre.
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://emmaanuel.github.io/media/posts/8/img_0140.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://emmaanuel.github.io/media/posts/8/responsive/img_0140-xs.jpg 300w ,https://emmaanuel.github.io/media/posts/8/responsive/img_0140-sm.jpg 480w ,https://emmaanuel.github.io/media/posts/8/responsive/img_0140-md.jpg 768w"  height="2015" width="2686" alt="" />
-      
-    </figure>
-
-  <div  class="gallery-wrapper gallery-wrapper--center">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/8/gallery/_dsc6732.jpg" data-size="2000x3008">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/8/gallery/_dsc6732-thumbnail.jpg" height="1083" width="720" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://emmaanuel.github.io/media/posts/8/gallery/_dsc6734.jpg" data-size="3008x2000">
-        <img loading="lazy" src="https://emmaanuel.github.io/media/posts/8/gallery/_dsc6734-thumbnail.jpg" height="479" width="720" alt="" />
       </a>
       
     </figure>
