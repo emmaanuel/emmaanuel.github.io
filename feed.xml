@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Le blog d&#x27;emmaanuel - des choses réalisées avec les mains!</title>
+    <title>Le blog d&#x27;emmaanuel</title>
     <link href="https://www.emmaanuel.com/feed.xml" rel="self" />
     <link href="https://www.emmaanuel.com" />
     <updated>2021-10-31T23:22:03+01:00</updated>
@@ -22,7 +22,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/23/Capture-decran-2021-10-31-a-22.42.58.png" alt="" />
-                     Aujourd’hui un peu de menuiserie avec la réalisation d’un maillet en bois. J’ai utiliser des chutes de bois de&hellip;
+                     Aujourd’hui un peu de menuiserie avec la réalisation d’un maillet en bois. J’ai utiliser des chutes de bois de la terrasse (IPE) et des restes de ma table de cuisine (Hêtre). Je me suis inspiré d’une réalisation de "JC’s Workshop", avec un corp de&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,12 +34,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1534.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1534-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1534.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1534-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-md.jpg 768w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1534-2xl.jpg 1600w"  height="1280" width="960" alt="" />
       <figcaption>Travail du manche à la panne</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1536.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1536-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-md.jpg 768w"  height="1280" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/23/img_1536.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/23/responsive/img_1536-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-md.jpg 768w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/23/responsive/img_1536-2xl.jpg 1600w"  height="1280" width="1280" alt="" />
       <figcaption>quasi-terminé</figcaption>
     </figure>
 
@@ -74,7 +74,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/24/img_1228.jpg" alt="" />
-                     Un retour sur un project réalisé au printemps. Il s’agit d’une table de cuisine en hêtre massif, et c’est&hellip;
+                     Un retour sur un project réalisé au printemps. Il s’agit d’une table de cuisine en hêtre massif, et c’est aussi mon 1er meuble. Début des travaux à partir de planches de hêtre en 36 pour les pieds et 28 pour le plateau. Les pieds&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -86,47 +86,47 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1156.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1156-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1156.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1156-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1156-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1157.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1157-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1157.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1157-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1157-2xl.jpg 1600w"  height="1280" width="960" alt="" />
       <figcaption>Les pieds sont composés de deux morceaux collés</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1184.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1184-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1184.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1184-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1184-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       <figcaption>découpage et rabotage des morceaux pour le plateau</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1185.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1185-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1185.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1185-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1185-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1209.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1209-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1209.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1209-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1209-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       <figcaption>Collage bord à bord avec une cheville centrale</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1212.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1212-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1212.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1212-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1212-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       <figcaption>Le plateau finalisé et poncé</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1223.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1223-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-md.jpg 768w"  height="1280" width="960" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1223.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1223-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1223-2xl.jpg 1600w"  height="1280" width="960" alt="" />
       <figcaption>La structure</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1227.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1227-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1227.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1227-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1227-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1228-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-md.jpg 768w"  height="960" width="1280" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/24/img_1228-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-md.jpg 768w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/24/responsive/img_1228-2-2xl.jpg 1600w"  height="960" width="1280" alt="" />
       <figcaption>fin du projet</figcaption>
     </figure>
             ]]>
@@ -145,7 +145,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/22/Capture-decran-2021-10-31-a-22.46.49.png" alt="" />
-                     L’électronique et le système de distribution sont terminés, il ne me reste plus qu’à mettre tout ça dans une&hellip;
+                     L’électronique et le système de distribution sont terminés, il ne me reste plus qu’à mettre tout ça dans une boite. Voulant explorer les possibilités apportées par ma CNC, j’ai décidé de partir sur une structure en MDF. Et comme le MDF ne se visse&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -178,27 +178,27 @@
   </div>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/capture_d_ecran_2016-05-21_a_23.26.34.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-xs.png 300w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-sm.png 480w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-md.png 768w"  height="937" width="1337" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/capture_d_ecran_2016-05-21_a_23.26.34.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-xs.png 300w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-sm.png 480w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-md.png 768w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-lg.png 1024w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-xl.png 1360w ,https://www.emmaanuel.com/media/posts/22/responsive/capture_d_ecran_2016-05-21_a_23.26.34-2xl.png 1600w"  height="937" width="1337" alt="" />
       <figcaption>Modélisation dans sketchup</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0470.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0470-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-md.jpg 768w"  height="480" width="640" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0470.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0470-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-md.jpg 768w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0470-2xl.jpg 1600w"  height="480" width="640" alt="" />
       <figcaption>Découpage à la CNC</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0474.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0474-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-md.jpg 768w"  height="480" width="640" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0474.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0474-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-md.jpg 768w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0474-2xl.jpg 1600w"  height="480" width="640" alt="" />
       <figcaption>Résultat nickel</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0486.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0486-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-md.jpg 768w"  height="640" width="480" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/img_0486.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/img_0486-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-md.jpg 768w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/22/responsive/img_0486-2xl.jpg 1600w"  height="640" width="480" alt="" />
       <figcaption>j’utilise un bidon d’eau de 5L découpé pour faire l’entonnoir vers la vis sans fin.</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/dsc06656.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-md.jpg 768w"  height="640" width="425" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/22/dsc06656.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-md.jpg 768w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/22/responsive/dsc06656-2xl.jpg 1600w"  height="640" width="425" alt="" />
       <figcaption>Une fois assemblé, ça commence à ressembler à quelque chose</figcaption>
     </figure>
 
@@ -244,7 +244,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/21/arton41.png" alt="" />
-                     Maintenant que le système de distribution de croquette est en place, je commence la partie électronique. Fonctionnellement c’est assez&hellip;
+                     Maintenant que le système de distribution de croquette est en place, je commence la partie électronique. Fonctionnellement c’est assez simple : - Distribution de croquettes toutes les X heures, minutes - Paramétrage de la quantité de croquette, par la durée de fonctionnement de la&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -256,7 +256,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.01.59.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-md.png 768w"  height="1019" width="952" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.01.59.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-md.png 768w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-lg.png 1024w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-xl.png 1360w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.01.59-2xl.png 1600w"  height="1019" width="952" alt="" />
       
     </figure>
 
@@ -265,7 +265,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.12.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-md.png 768w"  height="820" width="820" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/21/capture_d_ecran_2016-05-21_a_23.12.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-md.png 768w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-lg.png 1024w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-xl.png 1360w ,https://www.emmaanuel.com/media/posts/21/responsive/capture_d_ecran_2016-05-21_a_23.12.57-2xl.png 1600w"  height="820" width="820" alt="" />
       
     </figure>
 
@@ -288,7 +288,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/20/Capture-decran-2021-10-31-a-22.44.18.png" alt="" />
-                     Je sais, ce sujet a déjà été traité par de nombreuses personnes, et il existe pléthore de DIY sur&hellip;
+                     Je sais, ce sujet a déjà été traité par de nombreuses personnes, et il existe pléthore de DIY sur le sujet. Mais on s’en fout, car c’est toujours fun de réinventer la roue. Je me lance donc dans la construction d’un distributeur de croquettes&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -332,12 +332,12 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.40.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-md.png 768w"  height="899" width="899" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.40.57.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-md.png 768w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-lg.png 1024w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-xl.png 1360w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.40.57-2xl.png 1600w"  height="899" width="899" alt="" />
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.45.15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-md.png 768w"  height="795" width="606" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/20/capture_d_ecran_2016-05-19_a_23.45.15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-xs.png 300w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-sm.png 480w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-md.png 768w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-lg.png 1024w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-xl.png 1360w ,https://www.emmaanuel.com/media/posts/20/responsive/capture_d_ecran_2016-05-19_a_23.45.15-2xl.png 1600w"  height="795" width="606" alt="" />
       
     </figure>
 
@@ -385,7 +385,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/18/_dsc6965-2.jpg" alt="" />
-                     Today I wanted to share my first Raspberry Pi project. It’s a music player based on raspberry pi and&hellip;
+                     Today I wanted to share my first Raspberry Pi project. It’s a music player based on raspberry pi and squeezebox system. This is the result : The SqueezeBerry hardware is composed by : - a Raspberry PI (model A or B) - a wifi&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -402,7 +402,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/radio_squeezebox2_bb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-xs.png 300w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-sm.png 480w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-md.png 768w"  height="2238" width="1755" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/radio_squeezebox2_bb.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-xs.png 300w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-sm.png 480w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-md.png 768w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-lg.png 1024w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-xl.png 1360w ,https://www.emmaanuel.com/media/posts/18/responsive/radio_squeezebox2_bb-2xl.png 1600w"  height="2238" width="1755" alt="" />
       
     </figure>
 
@@ -411,7 +411,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/img_0617.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/img_0617-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-md.jpg 768w"  height="2448" width="3264" alt="" />
+      <img loading="lazy" src="https://www.emmaanuel.com/media/posts/18/img_0617.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.emmaanuel.com/media/posts/18/responsive/img_0617-xs.jpg 300w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-sm.jpg 480w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-md.jpg 768w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-lg.jpg 1024w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-xl.jpg 1360w ,https://www.emmaanuel.com/media/posts/18/responsive/img_0617-2xl.jpg 1600w"  height="2448" width="3264" alt="" />
       
     </figure>
 
@@ -493,7 +493,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/19/_dsc6987.jpg" alt="" />
-                     Ca y est c’est fini... Cette petite guêpe va pouvoir entamer sa deuxième vie. Il reste encore quelques bricoles&hellip;
+                     Ca y est c’est fini... Cette petite guêpe va pouvoir entamer sa deuxième vie. Il reste encore quelques bricoles à finir, mais elle a déjà fait un belle balade ce dimanche. Donc au final : - elle est très sympa à conduire. - Les&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -550,7 +550,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/17/img_0585.jpg" alt="" />
-                     Ce week-end, j’ai fais la partie qui a été la plus pénible de toute la restauration : le passage&hellip;
+                     Ce week-end, j’ai fais la partie qui a été la plus pénible de toute la restauration : le passage des gaines. J’ai d’abord passer plusieurs soirs à poser les baguettes de sols. Bien galère comme truc, et ça bouffe les doigts :-) Ensuite pour&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -695,7 +695,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.emmaanuel.com/media/posts/15/arton18.png" alt="" />
-                     De bon matin, je me suis lancé dans la dernière étape de la partie carrosserie : la peinture de&hellip;
+                     De bon matin, je me suis lancé dans la dernière étape de la partie carrosserie : la peinture de la carrosserie ! Apres plusieurs essais ratés au cour de la semaine (j’avais systématiquement de la grosse peau d’orange), j’ai modifié la pression sur mon&hellip;
                 ]]>
             </summary>
         <content type="html">
